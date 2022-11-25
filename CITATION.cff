@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, your code will not work."
+authors:
+  - family-names: Connor
+    given-names: Kent
+    orcid: https://orcid.org/0000-0000-0000-0000
+title: ckent03/eeecs_qub_collaboration: test_release_1
+version: v1.0.0
+date-released: 2022-11-25
